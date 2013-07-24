@@ -22,3 +22,7 @@ $(TARGET): $(OBJS)
 clean:
 	rm $(TARGET)
 	rm $(OBJS)
+
+c: class
+class:
+	cp .template/classname.hpp $(TO)/$(NAME).hpp

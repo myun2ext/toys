@@ -5,9 +5,9 @@ namespace $username
 {
 	namespace $projectname
 	{
-  	class $classname
-    {
-    };
+		class $classname
+		{
+		};
 	}
 }
 
